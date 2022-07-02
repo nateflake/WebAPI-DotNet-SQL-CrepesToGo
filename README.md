@@ -1,3 +1,4 @@
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_at_start.png)
 ## UPDATE DATABASE (migration files already included)
 > Start database
 > In appsettings.Development.json:
