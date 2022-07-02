@@ -1,4 +1,43 @@
+## PURPOSE
+The project demonstrates use of .NET and a Microsoft SQL database in a web API, which will be the foundation of a React App
+
+## FOR USE IN React App
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/crepes_to_go_catalog.png)
+
+## GET all in API via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_get_all_start.png)
+
+## GET all Result in DB
 ![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_at_start.png)
+
+
+## POST new record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_post_post.png)
+
+## POST result: New Record in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_post_post.png)
+
+## PUT (edit record) via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_put.png)
+
+## PUT result: record changed in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_put.png)
+
+## GET single record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_get_one_record.png)
+
+## Changed record in DB (after put)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_get_one_record.png)
+
+## DELETE newly created record via postman
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/postman_delete.png)
+
+## DELETE result: record gone in DB (last row)
+![alt text](https://nateflake.com/wp-content/uploads/2022/07/db_delete.png)
+
+
+## SETUP INSTRUCTIONS...
+
 ## UPDATE DATABASE (migration files already included)
 > Start database
 > In appsettings.Development.json:
